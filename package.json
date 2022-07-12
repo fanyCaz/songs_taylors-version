@@ -1,0 +1,15 @@
+{
+  "name": "songs-taylors-version",
+  "version": "1.0.0",
+  "description": "Get Taylor's versions songs on my playlist and then updating with new album versions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fanyCaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.4",
+    "axios": "^0.23.0"
+  }
+}

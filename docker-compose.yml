@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  tay_songs:
+    build: .
+    ports:
+      - "3000:3000"
+
